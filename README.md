@@ -11,6 +11,7 @@ A passionate Software Engineer from India 🇮🇳. Looking at world's problem f
 
 <img align="right" alt="GIF" src="https://github.com/frittlechasm/frittlechasm/blob/main/coding.gif" width="500" height="320" />
 
+<br/>
 
 - 💻 I'm currently working as a full stack developer at miniOrange
 
