@@ -1,4 +1,4 @@
-# Hi, I'm Pratish  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="40px">
+# Hi,  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="40px">
 
     ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗            
     ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
