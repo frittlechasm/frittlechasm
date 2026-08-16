@@ -1,4 +1,4 @@
-# Hi, I'm Ray 👋
+# Hi, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="40" alt="Waving hand">
 
 Backend, web, and Cyber Security engineer building practical developer tools and automation.
 
